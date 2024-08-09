@@ -73,3 +73,52 @@ footer {
     margin-top: 20px;
     border-top: 4px solid #973131;
 }
+
+/* Properties Page Styling */
+.properties-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.property {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    width: 300px;
+    padding: 15px;
+    text-align: center;
+}
+
+.property img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.property h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.property p {
+    margin: 5px 0;
+}
+
+.property p strong {
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .properties-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .property {
+        width: 80%;
+    }
+}
