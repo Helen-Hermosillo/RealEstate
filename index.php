@@ -12,8 +12,8 @@
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="properties.php">Properties</a></li>
-                <li><a href="contact.php">Contact</a></li>
+                <li><a href="propertiesPage.php">Properties</a></li>
+                <li><a href="contactInfoPage.php">Contact</a></li>
             </ul>
         </nav>
     </header>
