@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Real Estate Website</title>
-    <!-- Include CSS for styling -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -26,3 +25,4 @@
     </footer>
 </body>
 </html>
+
