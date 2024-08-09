@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Real Estate Website</h1>
+        <h1>Jordan Realtor </h1>
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
@@ -18,7 +18,9 @@
         </nav>
     </header>
     <main>
-        <!-- Main content will go here -->
+
+
+
     </main>
     <footer>
         <p>&copy; 2024 Real Estate Website</p>
